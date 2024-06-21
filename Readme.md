@@ -1,6 +1,6 @@
 # Slidely task02  Backend  
 
-This repository contains the codebase for a slidely task 2 backend API. The primary objective is to implement CRUD operations. 
+This repository contains the codebase for a slidely task 2 backend API. The primary objective is to implement CRUD operations.
 
 ### Task Completion
 
@@ -47,5 +47,6 @@ Use this first http://localhost:5000 then api end point
 3. Make sure to install Node, Express,Typescript, nodemon
 4. excute the code with command 'npm start'. 
 5. You can also test this Api's by using isomania, postman.
-4. Clone the fronted code.
-5. excute the frontend code.
+6. Clone the fronted code.
+7. excute the frontend code.
+8. For  any error or  doubt mail me : prateek7120@gmail.com
